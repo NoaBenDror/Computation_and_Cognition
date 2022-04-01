@@ -1,1 +1,2 @@
-# Computation_and_Cognition
+# Computation-and-Cognition
+Computation and Cognition (ML in Python) The Hebrew University in Jerusalem - 2020
